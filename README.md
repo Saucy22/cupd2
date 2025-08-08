@@ -1,5 +1,5 @@
 # cupd2
-Cupd2 (Codename: Helmet) is the second version of Calebs Updater for linux. Now written in go.
+Cupd2 (Codename: Helmet) is the second version of Calebs Updater for linux. Now written in go (as opposed to python)
 
 # What?
 Calebs Updater 2 is a program that simplifies the update process for linux machines by making 2-4 commands into 1
